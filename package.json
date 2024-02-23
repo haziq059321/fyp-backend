@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.30.1",
+    "mongoose": "^8.1.3",
+    "mqtt": "^5.3.5",
+    "shortid": "^2.2.16"
+  },
+  "name": "fyp-backend",
+  "version": "1.0.0",
+  "main": "mqtt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mqtt.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
